@@ -1,0 +1,39 @@
+              Starters:
+1001  Soup of the day                  $8.5
+1002  Dynamite prawns                  $9.0
+1003  Chicken strips                   $7.0     
+1004  Bruschetta Italiano              $8.5
+
+              Entrées:
+1005  Salt and Pepper Calimari         $10.5
+1006  Garlic king prawns               $12.5
+1007  Chicken Souvlaki                 $13.0
+
+              Mains:
+1008  Fettuccine carbonara             $18.0
+1009  Chicken Supreme                  $20.5
+1010  Tarragon Chicken                 $20.0
+1011  Spaghetti Marinara               $20.0
+
+              Steaks:
+1012  T-Bone                           $25.0 
+1013  Rib on the Bone                  $27.0
+1014  Scotch Fillet                    $25.0
+1015  New York style                   $26.0
+1016  Filet mignon                     $30.0
+   
+              Salads:
+1017  Ceaser Salad                     $15.0
+1018  Great Salad                      $15.0
+
+              Sides:
+1019  Mashed potato                    $9.0
+1020  Stir fry rice                    $10.0
+1021  Fries and aloli                  $10.0
+1022  Gravy                            $9.5
+
+              Desert:
+1023  Banana cream pie                 $9.0
+1024  Cherry Cobbler                   $8.0
+1025  Carrot Cake                      $8.0
+1026  Molten Chocolate Cake            $10.0
